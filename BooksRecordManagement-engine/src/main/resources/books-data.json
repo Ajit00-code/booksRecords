@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "6138fba5fdc0724db0a18e17"
+  },
+  "title": "5 Point someone",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "2000",
+  "authorId": "6138f58dfdc0724db0a18dfc",
+  "publisherId": "6138f93dfdc0724db0a18e0e",
+  "publishedDate": "12 Sept 2001",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fbe8fdc0724db0a18e18"
+  },
+  "title": "3 mistakes of my life",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "2001",
+  "authorId": "6138f58dfdc0724db0a18dfc",
+  "publisherId": "6138f93dfdc0724db0a18e0e",
+  "publishedDate": "2 Aug 2002",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fc35fdc0724db0a18e19"
+  },
+  "title": "2 State",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "2008",
+  "authorId": "6138f58dfdc0724db0a18dfc",
+  "publisherId": "6138f956fdc0724db0a18e0f",
+  "publishedDate": "22 Jan 2008",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fc6afdc0724db0a18e1a"
+  },
+  "title": "Half- Girlfriend",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "2001",
+  "authorId": "6138f58dfdc0724db0a18dfc",
+  "publisherId": "6138f956fdc0724db0a18e0f",
+  "publishedDate": "12 Jan 2014",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fcd3fdc0724db0a18e1b"
+  },
+  "title": "Politics of Opportunism",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "198",
+  "authorId": "6138f776fdc0724db0a18e05",
+  "publisherId": "6138f96cfdc0724db0a18e10",
+  "publishedDate": "15 Jan 2017",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fcf8fdc0724db0a18e1c"
+  },
+  "title": "Malayalam poetry",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Malayalam",
+  "edition": "187",
+  "authorId": "6138f776fdc0724db0a18e05",
+  "publisherId": "6138f96cfdc0724db0a18e10",
+  "publishedDate": "19 Dec 2011",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fd3bfdc0724db0a18e1d"
+  },
+  "title": "The Testaments",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Malayalam",
+  "edition": "187",
+  "authorId": "6138f78cfdc0724db0a18e06",
+  "publisherId": "6138f97dfdc0724db0a18e11",
+  "publishedDate": "11 Dec 2018",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fd63fdc0724db0a18e1e"
+  },
+  "title": "Celestial Bodies",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "17",
+  "authorId": "6138f78cfdc0724db0a18e06",
+  "publisherId": "6138f97dfdc0724db0a18e11",
+  "publishedDate": "01 Feb 2014",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fdb5fdc0724db0a18e1f"
+  },
+  "title": "Cheque book",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "188",
+  "authorId": "6138f7a0fdc0724db0a18e07",
+  "publisherId": "6138f995fdc0724db0a18e12",
+  "publishedDate": "08 March 2002",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fde6fdc0724db0a18e20"
+  },
+  "title": "The Overstory",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "190",
+  "authorId": "6138f7a0fdc0724db0a18e07",
+  "publisherId": "6138f995fdc0724db0a18e12",
+  "publishedDate": "18 March 2009",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fe32fdc0724db0a18e21"
+  },
+  "title": "Exam Warriors",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "10",
+  "authorId": "6138f7c1fdc0724db0a18e08",
+  "publisherId": "6138f9a2fdc0724db0a18e13",
+  "publishedDate": "16 June 2016",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fe56fdc0724db0a18e22"
+  },
+  "title": "Mind-Master",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "1087",
+  "authorId": "6138f7c1fdc0724db0a18e08",
+  "publisherId": "6138f9a2fdc0724db0a18e13",
+  "publishedDate": "26 June 2019",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fea4fdc0724db0a18e23"
+  },
+  "title": "Hemant Karkare",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "187",
+  "authorId": "6138f7d7fdc0724db0a18e09",
+  "publisherId": "6138f9bffdc0724db0a18e14",
+  "publishedDate": "06 Oct 2001",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138fecbfdc0724db0a18e24"
+  },
+  "title": "Courts of India",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "17",
+  "authorId": "6138f7d7fdc0724db0a18e09",
+  "publisherId": "6138f9bffdc0724db0a18e14",
+  "publishedDate": "22 Oct 2001",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138ff3ffdc0724db0a18e25"
+  },
+  "title": "Figheters Story",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "179",
+  "authorId": "6138f7f3fdc0724db0a18e0a",
+  "publisherId": "6138f9d1fdc0724db0a18e15",
+  "publishedDate": "05 Dec 2007",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138ff64fdc0724db0a18e26"
+  },
+  "title": "Braille Edition of ‘Exam Warriors",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "English",
+  "edition": "1789",
+  "authorId": "6138f7f3fdc0724db0a18e0a",
+  "publisherId": "6138f9d1fdc0724db0a18e15",
+  "publishedDate": "15 Dec 2017",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138ff9bfdc0724db0a18e27"
+  },
+  "title": "Bridgital Nation",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "192",
+  "authorId": "6138f815fdc0724db0a18e0b",
+  "publisherId": "6138f9d1fdc0724db0a18e15",
+  "publishedDate": "15 Aug 2011",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+},{
+  "_id": {
+    "$oid": "6138ffc0fdc0724db0a18e28"
+  },
+  "title": "Fakir Hassen",
+  "desc": "A good life lessons book which is also a best seller of its time.",
+  "language": "Hindi",
+  "edition": "172",
+  "authorId": "6138f815fdc0724db0a18e0b",
+  "publisherId": "6138f9d1fdc0724db0a18e15",
+  "publishedDate": "04 April 2015",
+  "_class": "com.ajit.BooksRecordManagement.model.Book"
+}]

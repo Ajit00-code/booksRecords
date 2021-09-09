@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6138f93dfdc0724db0a18e0e"
+  },
+  "name": "Jaico Publishing House",
+  "location": "Maharashtra",
+  "publications": [
+    "6138fba5fdc0724db0a18e17",
+    "6138fbe8fdc0724db0a18e18"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f956fdc0724db0a18e0f"
+  },
+  "name": "Westland Publications",
+  "location": "Maharashtra",
+  "publications": [
+    "6138fc35fdc0724db0a18e19",
+    "6138fc6afdc0724db0a18e1a"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f96cfdc0724db0a18e10"
+  },
+  "name": "Penguin Random House India",
+  "location": "Delhi",
+  "publications": [
+    "6138fcd3fdc0724db0a18e1b",
+    "6138fcf8fdc0724db0a18e1c"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f97dfdc0724db0a18e11"
+  },
+  "name": "Roli Books",
+  "location": "Delhi",
+  "publications": [
+    "6138fd3bfdc0724db0a18e1d",
+    "6138fd63fdc0724db0a18e1e"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f995fdc0724db0a18e12"
+  },
+  "name": "Rupa Publications",
+  "location": "UP",
+  "publications": [
+    "6138fdb5fdc0724db0a18e1f",
+    "6138fde6fdc0724db0a18e20"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f9a2fdc0724db0a18e13"
+  },
+  "name": "Hachette India",
+  "location": "UP",
+  "publications": [
+    "6138fe32fdc0724db0a18e21",
+    "6138fe56fdc0724db0a18e22"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f9bffdc0724db0a18e14"
+  },
+  "name": "Aleph Book Company",
+  "location": "Gujarat",
+  "publications": [
+    "6138fea4fdc0724db0a18e23",
+    "6138fecbfdc0724db0a18e24"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+},{
+  "_id": {
+    "$oid": "6138f9d1fdc0724db0a18e15"
+  },
+  "name": "HarperCollins Publishers India",
+  "location": "Gujarat",
+  "publications": [
+    "6138ff3ffdc0724db0a18e25",
+    "6138ff64fdc0724db0a18e26",
+    "6138ff9bfdc0724db0a18e27",
+    "6138ffc0fdc0724db0a18e28"
+  ],
+  "_class": "com.ajit.BooksRecordManagement.model.Publisher"
+}]
